@@ -1,0 +1,2 @@
+ok=input()
+print(ok)
